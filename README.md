@@ -102,6 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or further assistance, please reach out to:
-- **Email:** your-email@example.com
-- **GitHub:** [your-github-profile](https://github.com/yourusername)
-- **Website:** [your-website.com](https://your-website.com)
+- **Email:** maulana.muammar@binus.ac.id
+- **GitHub:** [your-github-profile](https://github.com/futprodev)
