@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or further assistance, please reach out to:
 - **Email:** maulana.muammar@binus.ac.id
-- **GitHub:** [your-github-profile](https://github.com/futprodev)
+- **GitHub:** [Maulana Mu'ammar](https://github.com/futprodev)
